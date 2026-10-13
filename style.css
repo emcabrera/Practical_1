@@ -1,0 +1,70 @@
+ * {
+     margin: 0;
+ }
+
+ #box {
+     position: absolute;
+     height: 290px;
+     width: 400px;
+     background-color: lightblue;
+     margin-top: 40px;
+     margin-left: 600px;
+     align-items: center;
+ }
+
+ #title{
+     text-align: center;
+     font-size: 26px;
+     font-weight: bold;
+     font-family: Arial, Helvetica, sans-serif;
+     color: midnightblue;
+     margin-top: 20px;
+ }
+
+ #other{
+     font-size: 15px;
+     margin-top: 10px;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-left: 20px;
+     font-weight: lighter;
+ }
+
+ #coco {
+     font-size: 13px;
+     margin-left: 16px;
+     margin-top: 14px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: lighter;
+ }
+
+ #name {
+     text-align: center;
+     margin-left: 16px;
+     margin-top: 6px;
+     height: 20px;
+     width: 350px;
+ }
+
+ #old {
+     font-size: 13px;
+     margin-top: 10px;
+     margin-left: 16px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: lighter;
+ }
+
+ #age {
+     text-align: center;
+     margin-left: 16px;
+     margin-top: 6px;
+     height: 20px;
+     width: 350px;
+ }
+
+ #ticket{
+     text-align: center;
+     margin-top: 11px;
+     margin-left: 18px;
+     width: 355px;
+     height: 30px;
+ }
